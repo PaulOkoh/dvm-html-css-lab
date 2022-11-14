@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+h2 {
+  color: white;
+  border: 1px solid black;
+  padding: 40px;
+  background-color: black;
+}
+span {
+  margin: 50px;
+}
+/* div {
+  background-color: black;
+} */
+
+ol {
+  color: white;
+  display: inline;
+}
+
+/* section > div {
+} */
+
+div > img {
+  width: 600px;
+  margin-left: 200px;
+}
+
+button {
+  margin-left: 100px;
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 15px;
+}
